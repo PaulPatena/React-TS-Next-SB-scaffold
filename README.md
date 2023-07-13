@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Storybook, Typescript, Jest are all configured.
+Storybook, Typescript, Jest, GraphQL and ApolloClient are all installed in this project ready for use.
 
 ## Requirements
 This project was run using node version 18.14.2, ideally newer 
