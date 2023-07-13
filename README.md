@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Storybook, Typescript, Jest are all configured.
 
+## Requirements
+This project was run using node version 18.14.2, ideally newer 
+versions should also work.
+
 ## Getting Started
 
 First, run the development server:
